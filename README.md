@@ -23,7 +23,7 @@
 
 ## Overview 
 
-This project contains 17 unlabeled images separated into 2 datasets. 
+This project contains 17 inside 1 dataset. It is ideal for running quick tests on small batches of data. 
 ![](https://i.imgur.com/DVRVXdh.jpg)
 
 ## How To Import
