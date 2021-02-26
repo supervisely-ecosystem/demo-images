@@ -25,7 +25,7 @@
 
 ## Overview 
 
-This project contains 17 high-quality unlabeled images inside 1 dataset. It is ideal for running quick tests on small batches of data. 
+This project contains 17 high-quality unlabeled images inside 2 datasets pof 12 and 5 images repectively. It is ideal for running quick tests on small batches of data. 
 ![](https://i.imgur.com/40RLUIO.jpg)
 
 ## Examples
