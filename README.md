@@ -7,7 +7,6 @@
 <p align="center">
 
   <a href="#overview">Overview</a> •
-  <a href="#description">Description</a> •
   <a href="#examples">Examples</a> •
   <a href="#how-to-import">How to Import</a> 
 </p>
