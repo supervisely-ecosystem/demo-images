@@ -31,7 +31,3 @@ This project contains 17 high-quality unlabeled images inside 2 datasets pof 12 
 ## Examples
 
 ![](https://i.imgur.com/khOhAVj.jpg) ![](https://i.imgur.com/02PyBkp.jpg) ![](https://i.imgur.com/4uWEESK.jpg)
-
-## How To Import
-
-...
