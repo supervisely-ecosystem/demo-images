@@ -1,0 +1,12 @@
+{
+  "name": "Demo Images",
+  "description": "17 unlabeled images for quick tests",
+  "type": "project",
+  "categories": [
+    "labeled data",
+    "semantic segmentation",
+    "images"
+  ],
+  "icon": "",
+  "icon_cover": true
+}
