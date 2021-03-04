@@ -7,8 +7,7 @@
 <p align="center">
 
   <a href="#overview">Overview</a> •
-  <a href="#examples">Examples</a> •
-  <a href="#how-to-import">How to Import</a> 
+  <a href="#examples">Examples</a>
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
@@ -16,11 +15,7 @@
 [![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/demo-images&counter=views&label=views)](https://supervise.ly)
 [![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/demo-images&counter=downloads&label=downloads)](https://supervise.ly)
 
-
-
-
 </div>
-
 
 
 ## Overview 
