@@ -3,7 +3,9 @@
   "description": "17 unlabeled images for quick tests",
   "type": "project",
   "categories": [
-    "images"
+    "import",
+    "images",
+    "project"
   ],
   "icon": "https://i.imgur.com/RhIFVaN.png",
   "icon_cover": true
