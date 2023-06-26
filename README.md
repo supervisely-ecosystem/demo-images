@@ -1,6 +1,6 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/eco.png" width="250" /> <br>
 
 # Demo Images  
 
@@ -22,8 +22,8 @@
 
 This project contains 17 unlabeled images: 2 datasets with 12 and 5 images repectively. It is ideal for running quick tests (for example, inference of pretrained neural networks). 
 
-![](https://i.imgur.com/40RLUIO.jpg)
+![](media/ov.jpeg)
 
 ## Examples
 
-![](https://i.imgur.com/khOhAVj.jpg) ![](https://i.imgur.com/02PyBkp.jpg) ![](https://i.imgur.com/4uWEESK.jpg)
+![](media/ex1.jpeg) ![](media/ex2.jpeg) ![](media/ex3.jpeg)
